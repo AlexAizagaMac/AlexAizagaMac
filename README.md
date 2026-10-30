@@ -18,5 +18,5 @@ const developer = {
 ---
 
 ### 💬 Conecta conmigo
-*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
 *   **Email:** alexis.aizaga15@etik.com
