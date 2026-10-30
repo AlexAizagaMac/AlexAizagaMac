@@ -5,7 +5,7 @@ const developer = {
   status: "Estudiante de 2º de DAW en IES El Lago (Madrid)",
   goal:   "Buscando primera oportunidad en desarrollo Web / Full-Stack",
   skills: ["Java", "Spring Boot", "JavaScript", "MySQL", "Git", "Linux"],
-  idiomas: { ingles: "C1" },
+  idiomas: { inglés: "C1" },
   
   background: [
     "Experiencia previa gestionando flujos de trabajo en multinacionales",
