@@ -9,20 +9,15 @@ Aunque vengo de otro sector, mi experiencia previa trabajando en empresas multin
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
-  <!-- Backend -->
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="Spring Boot" />
-  
-  <!-- Frontend -->
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  
-  <!-- BD y Sistemas -->
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Java" />&nbsp;
+  <img src="https://shields.io" alt="Spring Boot" />&nbsp;
+  <img src="https://shields.io" alt="JavaScript" />&nbsp;
+  <img src="https://shields.io" alt="HTML5" />&nbsp;
+  <img src="https://shields.io" alt="CSS3" />&nbsp;
+  <img src="https://shields.io" alt="MySQL" />&nbsp;
+  <img src="https://shields.io" alt="Git" />&nbsp;
   <img src="https://shields.io" alt="Linux" />
-</p>
+</p
 
 ---
 
